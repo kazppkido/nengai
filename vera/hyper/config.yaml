@@ -25,4 +25,4 @@ trialJobSpec:
       bootDiskType: pd-ssd
       bootDiskSizeGb: 100
     containerSpec:
-      imageUri: gcr.io/PROJECT_ID/kacida:sia
+      imageUri: gcr.io/qwiklabs-gcp-02-43f13ac9f728/kika:cuk
