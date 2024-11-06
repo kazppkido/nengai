@@ -25,4 +25,4 @@ trialJobSpec:
       bootDiskType: pd-ssd
       bootDiskSizeGb: 100
     containerSpec:
-      imageUri: gcr.io/inelabs-65703733/sule:latest
+      imageUri: gcr.io/qwiklabs-gcp-03-1ebcaf971ef9/sule:latest
